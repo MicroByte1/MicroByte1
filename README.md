@@ -53,7 +53,7 @@ Point of Sales Web application with secure login, product management, and checko
 
 - 📧 mohammedtarek2424@gmail.com  
 - 📱 +20 1090577607  
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mohammed-tarek-3803312b4/)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mohammed-tarek-3803312b4/)  
 - 🐙 [GitHub](https://github.com/MicroByte1)
 
 ---
